@@ -54,8 +54,9 @@ football-dashboard/
 
 ## Auteur
 
-Votre Nom
+o-zurek
 
 ## Licence
 
 MIT
+
